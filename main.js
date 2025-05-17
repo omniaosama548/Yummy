@@ -57,3 +57,4 @@ function displayMeals(meals) {
     });
   });
 }
+fetchMeals();
